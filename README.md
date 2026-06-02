@@ -1,5 +1,5 @@
 <div align="center">
- <b>Dan </b>
+
 </div>
 
 I am Dan, a game programmer based in the UK.
