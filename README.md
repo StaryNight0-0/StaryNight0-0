@@ -1,9 +1,9 @@
 ## Dan (@StarryNight)
 
-I am Dan, a game programmer based in the UK.
+Hi, I am Dan, a game programmer based in the UK.
 
 
-I currently have a heavy interest in graphics programming and AI programming within games.
+I currently have a heavy interest in graphics programming and game AI programming
 
 ## Projects
 [The Old Ones Arena](https://ghrothgames.itch.io/the-old-ones-arena) --   An Eldritch based split screen experience were you battle to the centre through hordes of monsters, gathering upgrades and then battling it out against your opponent.
