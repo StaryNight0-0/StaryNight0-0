@@ -7,6 +7,7 @@ I currently have a heavy interest in graphics programming and AI programming wit
 
 ## Projects
 [The Old Ones Arena](https://ghrothgames.itch.io/the-old-ones-arena) --   An Eldritch based split screen experience were you battle to the centre through hordes of monsters,gathering upgrades and then battling it out against your opponent.
+
 [WizardRush](https://github.com/StaryNight0-0/SDL3-2D-Tower-Defence-Game) -- A tower defence game made fully with the SDL3 API which also leverages Arduino to make use of a customer controller in which I designed for the game.
 
 
