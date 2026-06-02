@@ -1,4 +1,4 @@
-## Dan / (StarryNight)
+## Dan (@StarryNight)
 
 I am Dan, a game programmer based in the UK.
 
